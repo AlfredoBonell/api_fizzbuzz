@@ -1,5 +1,5 @@
-const FizzbuzzService = require("./../../../lib/services/FizzbuzzService");
-const Reader = require("./../../lib/utils/Reader");
+const FizzbuzzService = require("../../../lib/services/FizzbuzzService");
+const Reader = require("../../../lib/utils/Reader");
 const path = require("path");
 
 describe("Tests for FizzbuzzService class", () => { 
